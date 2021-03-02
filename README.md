@@ -1,2 +1,2 @@
-# PiTrebuchet
-Our Engineering 4 project
+# Pi Trebuchet
+Elisabeth Scharf and Abigail Paquette
