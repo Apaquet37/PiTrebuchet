@@ -3,6 +3,8 @@ Elisabeth Scharf and Abigail Paquette
 
 [Trello Board](https://trello.com/b/15McbNyB/engineering-4-project)
 
+[Calendar](https://jamboard.google.com/d/1JnHUE4IZWikT05Q0Ya0kpPUMJIv1QDpOZKAwVSAdiaQ/edit?usp=sharing) 
+
 ## Planning ##
 
 **Goal:** Create the most automated whipper trebuchet possible. [What is a whipper trebuchet?](https://www.youtube.com/watch?v=-gn2RGPqe_A&t=793s)
