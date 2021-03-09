@@ -52,15 +52,19 @@ Constraints:
 
 **Vision/Description:** We are going to launch an object using a trebuchet we have designed. We will create a user interface that allows the user to input two main pieces of data: how far the trebuchet is from the target, and relatively how much force with which they would like for the projectile to hit the target. The Pi does the calculation and changes the launch angle to help acheive the desired outcome. Once the launch has been optimized, the user can press a button that will tell the Pi to release a pin and launch the object. The object whips around and flies through the air to hit the target. Then the Pi resets the launch angle and lets the user know that the trebuchet is ready to be reset. 
 
-**Prototyping:**
+## Prototyping:** ## 
 <img src="Media/cadTrebuchet.png" width="500"> <img src="Media/marbleProto2.GIF" width="500"> <img src="Media/trebuchetProto3.GIF" width="500">
+
+**User Interface**
+
+<img src="Media/LaunchFlow.png" width="500">
 
 **Engineering Process:**
 - [x] Identify problem or goal 
-- [ ] Identify resources and constraints
-- [ ] Brainstorm ideas
-- [ ] Pick a solution
-- [ ] Develop an initial design (pencil and paper, CAD, etc.)
+- [x] Identify resources and constraints
+- [x] Brainstorm ideas
+- [x] Pick a solution
+- [x] Develop an initial design (pencil and paper, CAD, etc.)
 - [ ] Construct a prototype
 - [ ] Test your design
 - [ ] Refine/optimize your design
