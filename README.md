@@ -1,6 +1,8 @@
 # Pi Trebuchet
 Elisabeth Scharf and Abigail Paquette
 
+[Trello Board](https://trello.com/b/15McbNyB/engineering-4-project)
+
 ## Planning ##
 
 **Goal:** Create the most automated whipper trebuchet possible. [What is a whipper trebuchet?](https://www.youtube.com/watch?v=-gn2RGPqe_A&t=793s)
