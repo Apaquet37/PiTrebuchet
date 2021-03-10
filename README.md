@@ -108,6 +108,11 @@ Constraints:
 
 <img src="Media/LaunchFlow.png" width="500">
 
+**Release Pin Mechanism Ideas:**
+
+<img src="Media/MechanicalSystemForReleasePin.png" width="500">
+
+
 ## Schedule and Milestones
 
 |Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
