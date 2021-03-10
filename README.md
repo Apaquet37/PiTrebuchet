@@ -112,12 +112,6 @@ Constraints:
 
 <img src="Media/MechanicalSystemForReleasePin.png" width="500">
 
-
-## Schedule and Milestones
-
-|Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
-|----|----------------|-----------------|------------|-----------------------------|
-
 **Engineering Process:**
 - [x] Identify problem or goal 
 - [x] Identify resources and constraints
@@ -128,3 +122,9 @@ Constraints:
 - [ ] Test your design
 - [ ] Refine/optimize your design
 - [ ] Present finished product 
+
+
+## Schedule and Milestones
+
+|Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
+|----|----------------|-----------------|------------|-----------------------------|
