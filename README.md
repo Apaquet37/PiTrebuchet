@@ -128,14 +128,14 @@ Constraints:
 
 |Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
 |----|----------------|-----------------|------------|-----------------------------|
-|March 8-12|Submit proposal and design parts for release pin|---------------|----------|----------|
-|March 15-19|Design release pin mechanism|----------|----------|----------|
-|March 22-26|Build the trebuchet base|----------|----------|----------|
-|March 29 - April 2|Begin work on the sling|----------|----------|----------|
+|March 8-12|Submit proposal and design parts for release pin|Submit proposal and finish pi assignments from beginning of year|
+|March 15-19|Design release pin mechanism|
+|March 22-26|Build the trebuchet base|
+|March 29 - April 2|Begin work on the sling|
 |Spring Break|
-|April 12-16|Design and assemble counterweight|----------|----------|----------|
-|April 19-23|Continue on counterweight and sling work|----------|----------|----------|
-|April 26-30|Testing, troubleshooting, and revising|----------|----------|----------|
-|May 3-7|Testing, troubleshooting, and revising|----------|----------|----------|
-|May 10-14|Testing, troubleshooting, and revising|----------|----------|----------|
-|May 17-21|Finalize everything and finish documentation|----------|----------|----------|
+|April 12-16|Design and assemble counterweight|
+|April 19-23|Continue on counterweight and sling work|
+|April 26-30|Testing, troubleshooting, and revising|
+|May 3-7|Testing, troubleshooting, and revising|
+|May 10-14|Testing, troubleshooting, and revising|
+|May 17-21|Finalize everything and finish documentation|
