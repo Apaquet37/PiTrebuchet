@@ -7,11 +7,50 @@ Elisabeth Scharf and Abigail Paquette
 
 ## Table of Contents
 
+[Preliminary Brainstorming](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#Brainstorming)
+
 [Planning](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#planning)
 
 [Prototyping and Initial Designs](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#prototyping-and-initial-designs)
 
 [Schedule and Milestones](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#schedule-and-milestones)
+
+## Brainstorming
+For Engineering 4, we have to create a project that uses the raspberry pi in some way. The typical project is pi in the sky, where you find some way to launch or levitate your pi into the sky, but we are not being held to those constraints this year. Here are some of the initial ideas we thought about:
+```
+- Launch pi into air and take measurements/pictures 
+- Infrared power outage people sensor 
+- Launch pi on a rocket and track and create a graphic of its motion
+    - User interface 
+    - Picture button
+    - Math and data
+- Vertical panorama
+```
+And here are some of the materials we have at our disposal:
+```
+Sensors/sources of input we have:
+- Camera 
+- Barometric pressure, altimeter, temperature
+- Accelerometer and magnetometer
+- Infrared 
+```
+We decided we like the Pi in the Sky idea, and defined the problem as having two broad possible solutions:
+```
+Two ideas:
+1. Pi is launched externally and there is a user interface that displays and saves data/photos
+2. Pi somehow keeps itself up and user interface functions as a controller
+```
+We liked option number two, and fleshed that out even more:
+```
+Ways to get pi in the air:
+- Rocket
+    - Combustible engine
+    - Pressure powered (water, stomp)
+- Catapult
+    - Trebuchet
+```
+Before deciding to delve into the world of trebuchets.
+
 
 ## Planning
 
