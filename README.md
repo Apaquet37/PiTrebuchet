@@ -11,6 +11,8 @@ Elisabeth Scharf and Abigail Paquette
 
 [Prototyping and Beginning Ideas](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#prototyping-and-first-ideas)
 
+[Schedule and Milestones](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#schedule-and-milestones)
+
 ## Planning
 
 **Goal:** Create the most automated whipper trebuchet possible. [What is a whipper trebuchet?](https://www.youtube.com/watch?v=-gn2RGPqe_A&t=793s)
@@ -64,6 +66,11 @@ Constraints:
 **User Interface**
 
 <img src="Media/LaunchFlow.png" width="500">
+
+## Schedule and Milestones
+
+|Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
+|----|----------------|-----------------|------------|-----------------------------|
 
 **Engineering Process:**
 - [x] Identify problem or goal 
