@@ -8,7 +8,8 @@ Elisabeth Scharf and Abigail Paquette
 ## Table of Contents
 
 [Planning](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#planning)
-[Prototyping and Beginning Ideas]
+
+[Prototyping and Beginning Ideas](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#prototyping-and-first-ideas)
 
 ## Planning
 
