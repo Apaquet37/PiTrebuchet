@@ -5,6 +5,8 @@ Elisabeth Scharf and Abigail Paquette
 
 [Calendar](https://jamboard.google.com/d/1JnHUE4IZWikT05Q0Ya0kpPUMJIv1QDpOZKAwVSAdiaQ/edit?usp=sharing) 
 
+[Planning Section](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#planning)
+
 ## Planning ##
 
 **Goal:** Create the most automated whipper trebuchet possible. [What is a whipper trebuchet?](https://www.youtube.com/watch?v=-gn2RGPqe_A&t=793s)
