@@ -129,7 +129,7 @@ Constraints:
 
 **Initial Calendar** 
 
-<img src="Media/marchCalendar.png" width="700"> <img src="Media/aprilCalendar.png" width="700"> <img src="Media/mayCalendar.png" width="700">
+<img src="Media/marchCalendar.png" width="700"> <img src="Media/AprilCalendar.png" width="700"> <img src="Media/mayCalendar.png" width="700">
 
 **Milestones**
 
@@ -142,7 +142,7 @@ Constraints:
 |Spring Break| N/A | N/A |
 |April 12-16|Design and assemble counterweight|Start working on flask user interface|
 |April 19-23|Continue on counterweight and sling work|Add physical mechanisms into user interface, test and troubleshoot user interface|
-|April 26-30|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
+|April 26-30|Designing and building the launch pin system|Testing, troubleshooting, and revising|
 |May 3-7|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
 |May 10-14|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
 |May 17-21|Finalize everything and finish documentation|Finalize everything and finish documentation|
