@@ -5,7 +5,6 @@ Elisabeth Scharf and Abigail Paquette
 
 [Calendar](https://jamboard.google.com/d/1JnHUE4IZWikT05Q0Ya0kpPUMJIv1QDpOZKAwVSAdiaQ/edit?usp=sharing) 
 
-[Possible Release Pin Mechanism (3:06 to 3:40) ](https://www.youtube.com/watch?v=BVnrD9m3nSI&t=185s)
 
 ## Table of Contents
 
@@ -111,6 +110,8 @@ Constraints:
 **Release Pin Mechanism Ideas:**
 
 <img src="Media/MechanicalSystemForReleasePin.png" width="500">
+
+[Possible Release Pin Mechanism (3:06 to 3:40) ](https://www.youtube.com/watch?v=BVnrD9m3nSI&t=185s)
 
 **Engineering Process:**
 - [x] Identify problem or goal 
