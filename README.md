@@ -135,13 +135,13 @@ Constraints:
 |Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
 |----|----------------|-----------------|------------|-----------------------------|
 |March 8-12|Submit proposal and design parts for release pin|Submit proposal and finish pi assignments from beginning of year|
-|March 15-19|Design release pin mechanism|
-|March 22-26|Build the trebuchet base|
-|March 29 - April 2|Begin work on the sling|
-|Spring Break|
-|April 12-16|Design and assemble counterweight|
-|April 19-23|Continue on counterweight and sling work|
-|April 26-30|Testing, troubleshooting, and revising|
-|May 3-7|Testing, troubleshooting, and revising|
-|May 10-14|Testing, troubleshooting, and revising|
-|May 17-21|Finalize everything and finish documentation|
+|March 15-19|Design release pin mechanism|Code release pin mechanism servo|
+|March 22-26|Build the trebuchet base|Research the math and physics behind the launch, work with the equations to optimize launch by changing release angle|
+|March 29 - April 2|Begin work on the sling|Implement launch optimization in code (with release pin servo) and code launch servo|
+|Spring Break| N/A | N/A |
+|April 12-16|Design and assemble counterweight|Start working on flask user interface|
+|April 19-23|Continue on counterweight and sling work|Add physical mechanisms into user interface, test and troubleshoot user interface|
+|April 26-30|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
+|May 3-7|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
+|May 10-14|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
+|May 17-21|Finalize everything and finish documentation|Finalize everything and finish documentation|
