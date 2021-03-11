@@ -126,6 +126,12 @@ Constraints:
 
 ## Schedule and Milestones (See Trello board for more specific tasks)
 
+**Initial Calendar** 
+
+<img src="Media/marchCalendar.png" width="700"> <img src="Media/aprilCalendar.png" width="700"> <img src="Media/mayCalendar.png" width="700">
+
+**Milestones**
+
 |Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
 |----|----------------|-----------------|------------|-----------------------------|
 |March 8-12|Submit proposal and design parts for release pin|Submit proposal and finish pi assignments from beginning of year|
