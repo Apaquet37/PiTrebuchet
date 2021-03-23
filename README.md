@@ -136,7 +136,7 @@ Constraints:
 |Week|Elisabeth's Task|   Abby's Task   |Accomplished|Plans to catch up (if needed)|
 |----|----------------|-----------------|------------|-----------------------------|
 |March 8-12|Submit proposal and design parts for release pin|Submit proposal and finish pi assignments from beginning of year|Our proposal was submitted midweek, and we are starting to work in earnest on our project. The parts for the release pin mechanism were submitted Friday, and Abby will complete her pi assignments over the weekend.|Do pi assignments over the weekend.|
-|March 15-19|Design release pin mechanism|Code release pin mechanism servo|
+|March 15-19|Design release pin mechanism|Code release pin mechanism servo|One iteration of the release pin mechanism has been designed and lasercut, but scale was a bit off and testing still has to be done. The code for the servo has been started, but it also still needs to be worked on.|We are just going to continue to work hard and make sure to utilize time outside of class.|
 |March 22-26|Build the trebuchet base|Research the math and physics behind the launch, work with the equations to optimize launch by changing release angle|
 |March 29 - April 2|Begin work on the sling|Implement launch optimization in code (with release pin servo) and code launch servo|
 |Spring Break| N/A | N/A |
