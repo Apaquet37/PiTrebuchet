@@ -11,8 +11,8 @@ pwm.start(0)
 
 
 while True:
-	GPIO.output(18,GPIO.HIGH)
+	pwm.ChangeDutyCycle(5)
+	print("moving")
 	time.sleep(1)
-	GPIO.output(18,GPIO.LOW)
-	time.sleep(1)
+	setDirection(0)
 	print("end")
