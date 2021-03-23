@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
-P_SERVO = 12 # adapt to your wiring
+P_SERVO = 12 # look at a pin map, it's 12 if counting but labelled #18 on the T-cobbler
 fPWM = 50  # Hz (not higher with software PWM)
 a = 10
 b = 2
