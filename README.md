@@ -146,3 +146,12 @@ Constraints:
 |May 3-7|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
 |May 10-14|Testing, troubleshooting, and revising|Testing, troubleshooting, and revising|
 |May 17-21|Finalize everything and finish documentation|Finalize everything and finish documentation|
+
+
+## Documentation:## 
+**Things we've learned:**
+
+In the midst of trying to sort through some mates to find an error, I realized that things would be so much easier if I had named my mates. 
+Making that change has been helpful and has allowed me to troubleshoot more easily, especially as I add more and more pieces and more and more mates. 
+
+<img src="Media/NamingMates.png" width="500">
