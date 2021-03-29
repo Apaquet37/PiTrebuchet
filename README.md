@@ -151,7 +151,7 @@ Constraints:
 ## Documentation: ## 
 **Things we've learned:**
 
-In the midst of trying to sort through some mates to find an error, I realized that things would be so much easier if I had named my mates. 
+E: In the midst of trying to sort through some mates to find an error, I realized that things would be so much easier if I had named my mates. 
 Making that change has been helpful and has allowed me to troubleshoot more easily, especially as I add more and more pieces and more and more mates. 
 
 <img src="Media/NamingMates.png" width="300">
