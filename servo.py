@@ -3,11 +3,13 @@ import RPi.GPIO as GPIO
 import time
 
 servoPin = 18
+servoPin2 = 21
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 GPIO.setup(servoPin, GPIO.OUT)
 
-pwm = GPIO.PWM(servoPin, 50) # GPIO 17 for PWM with 50Hz
+pwm = GPIO.PWM(servoPin, 50)
+pwm = GPIO.PWM(servoPin, 50)
 pwm.start(2.5) # Initialization
 
 try:
