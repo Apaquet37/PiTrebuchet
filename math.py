@@ -1,14 +1,14 @@
 import math
 
-mCW = 1.74 #mass of cw, kg
+mCW = 1.16 #mass of cw, kg
 g = 9.81 #gravity, Newtons
-hCWI = #initial height of cw
+hCWI = 21 #initial height of cw, cm
 w = #rotational velocity (angular velocity?) in rad/sec
-hCWF = #final height of cw
+hCWF = 7 #final height of cw, cm
 mP = input("Mass of projectile:")#mass of projectile
 y = #height of projectile when released
 i = #moment of inertial
-r = #distance from COM of cw to COR
+r = 7 #distance from COM of cw to COR, cm
 
 vLCW = w*r #linear velocity of cw
 
