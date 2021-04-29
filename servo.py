@@ -7,9 +7,10 @@ servoPin2 = 21
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 GPIO.setup(servoPin, GPIO.OUT)
+GPIO.setup(servoPin2, GPIO.OUT)
 
 pwm = GPIO.PWM(servoPin, 50)
-pwm = GPIO.PWM(servoPin, 50)
+pwm = GPIO.PWM(servoPin2, 50)
 pwm.start(2.5) # Initialization
 
 try:
