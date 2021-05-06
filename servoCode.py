@@ -1,4 +1,4 @@
-from gpiozer.pins.pigpio import PiGPIOFactory
+from gpiozero.pins.pigpio import PiGPIOFactory
 from gpiozero import Servo,Device
 from time import sleep
 
