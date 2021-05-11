@@ -14,7 +14,7 @@ vLCW = w*r #linear velocity of counterweight
 
 vPF = math.sqrt((2((mCW*g*hCWI)-((1/2)*mCW*vLCW*vLCW)-((1/2)*i*w*w)-(mCW*g*hCWF)-(mP*g*y)))/mP)
 
-print(vPF)
+print(str(vPF))
 
 
 distance = input("Desired launch distance (in feet):")
