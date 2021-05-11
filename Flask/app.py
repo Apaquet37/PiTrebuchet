@@ -13,16 +13,16 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET","POST"])
 def index():
-     if request.method == "POST":
-	servo.max()
-	servo2.max()
-	sleep(1)
-        msg = request.form.get("submitBtn")
-     else:
-	servo.min()
-	servo2.min()
-	msg = "No click yet."
-     return render_template("index.html", msg=msg)
+	if request.method == "POST":
+		servo.max()
+		servo2.max()
+		sleep(1)
+		msg = request.form.get("submitBtn")
+	else:
+		servo.min()
+		servo2.min()
+		msg = "No click yet."
+	return render_template("index.html", msg=msg)
 
 if __name__ == "__main__":
      app.run(host="0.0.0.0", port=80)
