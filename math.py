@@ -17,7 +17,7 @@ vPF = math.sqrt((2((mCW*g*hCWI)-((1/2)*mCW*vLCW*vLCW)-((1/2)*i*w*w)-(mCW*g*hCWF)
 print(vPF)
 
 
-distance = input("Desired launch distance in feet:")
+distance = input("Desired launch distance (in feet):")
 deltaX = distance*.3048
 
 theta = (math.asin((deltaX*g)/(vPF*vPF)))/2
