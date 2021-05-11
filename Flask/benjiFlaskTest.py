@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import math
 app = Flask(__name__)
-msg = "Not Submitted"
+msg = ""
 
 
 @app.route("/", methods=["GET", "POST"])
