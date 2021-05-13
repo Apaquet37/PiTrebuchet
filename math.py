@@ -7,7 +7,7 @@ w = #rotational velocity (angular velocity?) in rad/sec
 hCWF = 0.03 #final height of cw, m
 mP = input("Mass of projectile:")#mass of projectile
 y = #height of projectile when released
-i = #moment of inertia
+i = .0223161663 #moment of inertia
 r = 0.12 #distance from COM of cw to COR, m
 
 vLCW = w*r #linear velocity of cw
