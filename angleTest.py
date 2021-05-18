@@ -9,6 +9,7 @@ servo2 = Servo(21)
 
 while True:
   angle = input("Angle (between 1 and -1):")
+  print(angle)
   servo.value = angle
   sleep(1)
   servo.value = -1
