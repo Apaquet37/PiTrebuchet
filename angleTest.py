@@ -8,7 +8,7 @@ servo = Servo(18)
 servo2 = Servo(21)
 
 while True:
-  float angle = input("Angle (between 1 and -1):")
+  angle = float(input("Angle (between 1 and -1):"))
   print(angle)
   servo.value = angle
   sleep(1)
