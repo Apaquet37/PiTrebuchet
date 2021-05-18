@@ -8,8 +8,8 @@ servo = Servo(18)
 servo2 = Servo(21)
 
 while True:
-  int angle = input("Angle (between 1 and -1):")
-  servo.value(angle)
+  #angle = input("Angle (between 1 and -1):")
+  servo.value(.75)
   time.sleep(1)
-  servo.min()
+  servo.value(-1)
   time.sleep(1)
