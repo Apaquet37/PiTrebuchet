@@ -8,4 +8,3 @@ servo = Servo(18)
 servo2 = Servo(21)
 
 while True:
-  
