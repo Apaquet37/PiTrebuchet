@@ -1,6 +1,6 @@
 import math
 
-mCW = 1.16 #mass of cw, kg (2 washers weighing .58 each)
+mCW = 1.74 #mass of cw, kg (3 washers weighing .58 each)
 g = 9.81 #gravity, Newtons 
 hCWI = 0.26 #initial height of cw, m
 w = #rotational velocity (angular velocity?) in rad/sec
