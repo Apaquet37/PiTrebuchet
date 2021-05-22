@@ -12,5 +12,5 @@ while True:
   print(angle)
   servo.value = angle
   sleep(1)
-  servo.value = -1
+  servo.value = 0
   sleep(1)
