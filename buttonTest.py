@@ -14,9 +14,9 @@ servo2 = Servo(21)
 
 
 while True:
-  angle = float(input("Angle (between 1 and -1):"))
   if GPIO.input(13) == GPIO.HIGH and buttonState == 0:
     print("Button pressed")
+    angle = float(input("Angle (between 1 and -1):"))
     buttonState = 1
     servo1.value = angle
     servo2.value = -1
