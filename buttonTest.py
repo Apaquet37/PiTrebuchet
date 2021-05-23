@@ -21,6 +21,7 @@ while True:
     servo1.value = angle
     servo2.value = -1
   if GPIO.input(13) == GPIO.LOW:
+    print("Button off")
     servo1.value = 0
     servo2.value = 1
     buttonState = 0
