@@ -30,3 +30,9 @@ theta2 = math.atan((deltaX-(math.sqrt((deltaX*deltaX)-(4*((g*deltaX*deltaX)/(2*v
 
 print(theta1)
 print(theta2)
+
+degTheta1 = ((theta1*180)/math.pi) #converting the angles into degrees
+degTheta2 = ((theta2*180)/math.pi)
+
+print(degTheta1)
+print(degTheta2)
