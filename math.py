@@ -8,7 +8,7 @@ print(w)
 hCWF = 0.03 #final height of cw, m
 userMass = float(input("Mass of projectile (in grams):")) #mass of projectile that user inputs, g
 mP = userMass/1000
-y = #height of projectile when released, m
+y = 0.26 #height of projectile when released, m
 i = .0223161663 #moment of inertia, kg*m^2
 r = 0.12 #distance from COM of cw to COR, m
 
@@ -22,5 +22,11 @@ print(vPF)
 distance = float(input("Desired launch distance (in feet):"))
 deltaX = distance*.3048
 
-theta = (math.asin((deltaX*g)/(vPF*vPF)))/2
-print(theta)
+#theta = (math.asin((deltaX*g)/(vPF*vPF)))/2
+
+theta1 = math.atan((deltaX+(math.sqrt((deltaX*deltaX)-(4*((g*deltaX*deltaX)/(2*vPF))*(((g*deltaX*deltaX)/(2*vPF))+y)))))/((g*deltaX*deltaX)/vPF))
+
+theta2 = math.atan((deltaX-(math.sqrt((deltaX*deltaX)-(4*((g*deltaX*deltaX)/(2*vPF))*(((g*deltaX*deltaX)/(2*vPF))+y)))))/((g*deltaX*deltaX)/vPF))
+
+print(theta1)
+print(theta2)
