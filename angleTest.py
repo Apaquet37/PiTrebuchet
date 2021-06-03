@@ -11,6 +11,6 @@ while True:
   angle = float(input("Angle (between 1 and -1):"))
   print(angle)
   servo.value = angle
-  sleep(1)
+  sleep(3)
   servo.value = 0
   sleep(1)
