@@ -155,3 +155,11 @@ E: In the midst of trying to sort through some mates to find an error, I realize
 Making that change has been helpful and has allowed me to troubleshoot more easily, especially as I add more and more pieces and more and more mates. 
 
 <img src="Media/NamingMates.png" width="300">
+
+
+<img src="Media/ArmDesign.png" width="300">
+<img src="Media/AxleCAD.png" width="300">
+<img src="Media/FullAssembly.png" width="300">
+<img src="Media/PiHolderDesign.png" width="300">
+<img src="Media/RevolutionDiagram.png" width="300">
+<img src="Media/NamingMates.png" width="300">
