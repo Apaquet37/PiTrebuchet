@@ -161,11 +161,30 @@ Making that change has been helpful and has allowed me to troubleshoot more easi
 
 Challenges we faced:
 - Using the sheet metal tool to simulate bent acrylic
+  - Learning how to do that in Onshape
+  - Getting help from Dr. Shields
+  - Editing the model
 - Using a heat gun to bend acrylic 
+  - Abby's experience doing that for the first time
+  - Using a wooden block as a mold
 - Designing an axle to stablize the arm
+  - Design challenge: we had to be able to put the arm onto the axle, but also make sure that once it was on it would not shift from side to side 
+  - Two-piece design solution
+  - Creating a headless screw
+  - Friction reduction: sanding and dry lubrication with graphite 
 - Designing a mechanized moving pin
+  - Finding a design
+  - Replicating it in Onshape
+  - Assembling it all in Onshape
+  - Scale for dxf files... (lesson learned)
+  - Current photos
 - Correlating the servo values (-1 to 1) with the release pin angles (0-180deg) and omega (rad)
+  - Protractor photo
+  - Screenshot of the graph to find the relationship
 - All the math... 
+  - Energy & kinematics
+  - New formula for omega
+  - Adjustments to the new omega formula
 
 
 ##### Design #####
