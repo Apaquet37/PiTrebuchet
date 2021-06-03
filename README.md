@@ -150,16 +150,15 @@ Constraints:
 
 
 ## Documentation: ## 
-**Things we've learned:**
 
-```
 **Little lessons along the way**
 
 E: In the midst of trying to sort through some mates to find an error, I realized that things would be so much easier if I had named my mates. 
 Making that change has been helpful and has allowed me to troubleshoot more easily, especially as I add more and more pieces and more and more mates. 
 
 <img src="Media/NamingMates.png" width="300">
-```
+
+
 Challenges we faced:
 - Using the sheet metal tool to simulate bent acrylic
 - Using a heat gun to bend acrylic 
@@ -168,7 +167,7 @@ Challenges we faced:
 - Correlating the servo values (-1 to 1) with the release pin angles (0-180deg) and omega (rad)
 - All the math... 
 
-```
+
 ##### Design #####
 
 There were a few distinct aspects of the design:
