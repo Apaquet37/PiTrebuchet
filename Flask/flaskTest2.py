@@ -20,7 +20,7 @@ def index():
           msg = "Welcome!"
      else:
           msg = "Welcome!"
-     return render_template("index.html", msg=msg)
+     return render_template("index2.html", msg=msg)
 
 if __name__ == "__main__":
      app.run(host="0.0.0.0", port=8080)
