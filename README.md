@@ -113,14 +113,15 @@ Constraints:
 
 [Possible Release Pin Mechanism (3:06 to 3:40) ](https://www.youtube.com/watch?v=BVnrD9m3nSI&t=185s)
 
+
 **Engineering Process:**
 - [x] Identify problem or goal 
 - [x] Identify resources and constraints
 - [x] Brainstorm ideas
 - [x] Pick a solution
 - [x] Develop an initial design (pencil and paper, CAD, etc.)
-- [ ] Construct a prototype
-- [ ] Test your design
+- [x] Construct a prototype
+- [x] Test your design
 - [ ] Refine/optimize your design
 - [ ] Present finished product 
 
@@ -151,11 +152,34 @@ Constraints:
 ## Documentation: ## 
 **Things we've learned:**
 
+```
+**Little lessons along the way**
+
 E: In the midst of trying to sort through some mates to find an error, I realized that things would be so much easier if I had named my mates. 
 Making that change has been helpful and has allowed me to troubleshoot more easily, especially as I add more and more pieces and more and more mates. 
 
 <img src="Media/NamingMates.png" width="300">
+```
+Challenges we faced:
+- Using the sheet metal tool to simulate bent acrylic
+- Using a heat gun to bend acrylic 
+- Designing an axle to stablize the arm
+- Designing a mechanized moving pin
+- Correlating the servo values (-1 to 1) with the release pin angles (0-180deg) and omega (rad)
+- All the math... 
 
+```
+##### Design #####
+
+There were a few distinct aspects of the design:
+1. PiHolder
+2. Custom Axle
+3. Arm
+4. Release Pin Mechanism 
+
+** 1. PiHolder ** 
+
+The PiHolder presented a unique challenge because we planned on lasercutting the design first and then bending the acrylic afterwards. 
 
 <img src="Media/ArmDesign.png" width="300">
 <img src="Media/AxleCAD.png" width="300">
