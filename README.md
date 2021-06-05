@@ -205,3 +205,6 @@ The PiHolder presented a unique challenge because we planned on lasercutting the
 <img src="Media/PiHolderDesign.png" width="300">
 <img src="Media/RevolutionDiagram.png" width="300">
 <img src="Media/NamingMates.png" width="300">
+<img src="Media/Whiteboard1.jpg" width="300">
+<img src="Media/Protractor.jpg" width="300">
+<img src="Media/AngleMeasurements.JPG" width="300">
