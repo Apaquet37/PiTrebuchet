@@ -5,6 +5,8 @@ Elisabeth Scharf and Abigail Paquette - Engineering 4 Repo & Documentation
 
 [Calendar](https://jamboard.google.com/d/1JnHUE4IZWikT05Q0Ya0kpPUMJIv1QDpOZKAwVSAdiaQ/edit?usp=sharing) 
 
+[Onshape Document](https://cvilleschools.onshape.com/documents/231c459fbc6840d3f00a1b9f/w/e7df1ab6ccf7a00b59ac0257/e/ae8347c1ef2b746ac703c727)
+
 
 ## Table of Contents
 
