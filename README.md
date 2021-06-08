@@ -138,7 +138,7 @@ Constraints:
 |----|----------------|-----------------|------------|-----------------------------|
 |March 8-12|Submit proposal and design parts for release pin|Submit proposal and finish pi assignments from beginning of year|Our proposal was submitted midweek, and we are starting to work in earnest on our project. The parts for the release pin mechanism were submitted Friday, and Abby will complete her pi assignments over the weekend.|Do pi assignments over the weekend.|
 |March 15-19|Design release pin mechanism|Code release pin mechanism servo|One iteration of the release pin mechanism has been designed and lasercut, but scale was a bit off and testing still has to be done. The code for the servo has been started, but it also still needs to be worked on.|We are just going to continue to work hard and make sure to utilize time outside of class.|
-|March 22-26|Build the trebuchet base|Research the math and physics behind the launch, work with the equations to optimize launch by changing release angle|
+|March 22-26|Build the trebuchet base|Research the math and physics behind the launch, work with the equations to optimize launch by changing release angle|The base went through several conceptual iterations, but we ended up going with a lasercut one comprised of two triangles that were connected by a u-shaped channel (made of bent acrylic) that would hold the Pi. The two biggest challenges with this (which continued into future weeks) were creating a two-piece axle to connect the tops of the triangles and learning how to design in 2D for something that would later be 3 dimensional.|
 |March 29 - April 2|Begin work on the sling|Implement launch optimization in code (with release pin servo) and code launch servo|
 |Spring Break| N/A | N/A |
 |April 12-16|Design and assemble counterweight|Start working on flask user interface|
@@ -158,6 +158,9 @@ Making that change has been helpful and has allowed me to troubleshoot more easi
 
 <img src="Media/NamingMates.png" width="300">
 
+E: Another tip for Onshape organization is to create folders to organize your part studios and assemblies within a single document. As we added more and more parts, it became challenging to scroll and find each particular part. I ended up with six folders and some sub-folders that told me where to go when looking for specific parts related to the different mechanisms on the trebuchet. 
+
+<img src="Media/FolderPhoto.png" width="300">
 
 Challenges we faced:
 - Using the sheet metal tool to simulate bent acrylic
