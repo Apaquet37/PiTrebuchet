@@ -1,3 +1,5 @@
+#This code is relatively twitchy, but it just moves a single servo back and forth in increments of varying angles and speeds.
+
 import RPi.GPIO as GPIO
 import time
 
