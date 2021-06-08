@@ -1,3 +1,5 @@
+#Never got this one to work because I didn't have all the necessary things downloaded.
+
 # Servo Control
 import time
 import wiringpi
