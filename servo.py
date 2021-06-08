@@ -1,3 +1,5 @@
+#This code should theoretically move two servos back and forth, but it currently only adjusts one, and it is pretty twitchy
+
 #Code for a servo to adjust the angle of the release pin
 import RPi.GPIO as GPIO
 import time
