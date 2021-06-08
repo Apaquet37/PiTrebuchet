@@ -1,3 +1,6 @@
+#All the math and physics for the trebuchet
+#By: Abigail Paquette
+
 import math
 
 mCW = 1.74 #mass of cw, kg (3 washers weighing .58 each)
