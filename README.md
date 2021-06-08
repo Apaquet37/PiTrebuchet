@@ -214,3 +214,14 @@ The PiHolder presented a unique challenge because we planned on lasercutting the
 <img src="Media/Whiteboard1.jpg" width="300">
 <img src="Media/Protractor.jpg" width="300">
 <img src="Media/AngleMeasurements.JPG" width="300">
+
+<img src="Media/ArmRotation.png" width="300">
+<img src="Media/CustomBatteryHolder.png" width="300">
+<img src="Media/DrawingTemplate.png" width="300">
+<img src="Media/FullArmAssembly.png" width="300">
+<img src="Media/FullAxle.png" width="300">
+<img src="Media/FullTrebuchet.png" width="300">
+<img src="Media/PiHolderPart.png" width="300">
+<img src="Media/ScrewConnection.png" width="300">
+<img src="Media/SheetMetalSketch.png" width="300">
+<img src="Media/SheetMetalTest.png" width="300">
