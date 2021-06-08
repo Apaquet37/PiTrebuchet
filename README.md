@@ -160,7 +160,7 @@ Making that change has been helpful and has allowed me to troubleshoot more easi
 
 E: Another tip for Onshape organization is to create folders to organize your part studios and assemblies within a single document. As we added more and more parts, it became challenging to scroll and find each particular part. I ended up with six folders and some sub-folders that told me where to go when looking for specific parts related to the different mechanisms on the trebuchet. 
 
-<img src="Media/FolderPhoto.png" width="300">
+<img src="Media/FolderPhoto.png" width="600">
 
 Challenges we faced:
 - Using the sheet metal tool to simulate bent acrylic
@@ -171,9 +171,10 @@ Challenges we faced:
   - Abby's experience doing that for the first time
   - Using a wooden block as a mold
 - Designing an axle to stablize the arm
-  - Design challenge: we had to be able to put the arm onto the axle, but also make sure that once it was on it would not shift from side to side 
-  - Two-piece design solution
-  - Creating a headless screw
+  - **Design challenge:** we had to be able to put the arm onto the axle, but also make sure that once it was on it would not shift from side to side. 
+  - **Thought Process:** We only wanted rotational movement in one plane, but couldn't think how to effectively create walls on each side of the arm that would go on after the arm. We decided that the best plan would be to create a two-piece axle that would connect in the middle after the arm was already on. 
+  - **Two-piece design solution:** The product was a two-piece axle where each side connected to one of the triangular walls and had a cone shape on the other end (specially designed to limit support material - just for you Dr. Shields!). The plan was to slide the arm onto a little part that stuck out from one of the sides and then to attach the two parts with deeply countersunk screws. 
+  - **Revisions:** Creating a headless screw
   - Friction reduction: sanding and dry lubrication with graphite 
 - Designing a mechanized moving pin
   - Finding a design
