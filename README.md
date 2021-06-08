@@ -1,5 +1,5 @@
-# Pi Trebuchet :) This is our project YAY  TEST test TEST
-Elisabeth Scharf and Abigail Paquette
+# Pi Trebuchet
+Elisabeth Scharf and Abigail Paquette - Engineering 4 Repo & Documentation
 
 [Trello Board](https://trello.com/b/15McbNyB/engineering-4-project)
 
