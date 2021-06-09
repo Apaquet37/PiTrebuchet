@@ -1,3 +1,5 @@
+#Incomplete, but the start of combining all the code for our project, just servo set up right now
+
 from gpiozero.pins.pigpio import PiGPIOFactory
 from gpiozero import Servo,Device
 from time import sleep
