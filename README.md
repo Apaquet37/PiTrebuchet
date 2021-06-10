@@ -18,6 +18,8 @@ Elisabeth Scharf and Abigail Paquette - Engineering 4 Repo & Documentation
 
 [Schedule and Milestones](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#schedule-and-milestones-see-trello-board-for-more-specific-tasks)
 
+[Code](https://github.com/Apaquet37/PiTrebuchet/blob/main/README.md#code)
+
 ## Brainstorming
 For Engineering 4, we have to create a project that uses the raspberry pi in some way. The typical project is pi in the sky, where you find some way to launch or levitate your pi into the sky, but we are not being held to those constraints this year. Here are some of the initial ideas we thought about:
 ```
@@ -237,7 +239,7 @@ The goals of our code at the start of this project:
 
 Currently, at the end of the school year, the code is almost finished, but not quite done. All of the logic has been figured out, as well as the servo control, but everything hasn’t been put together and the Flask user interface is not up and running. In this repository there are multiple different programs and files that all do different things, but all the code is commented so it should be pretty easy to look through. 
 
-Brief descriptions of important files: (link on names)
+Brief descriptions of important files:
 - [angleTest.py](angleTest.py)
     - This code allows a user to type in a number between -1 and 1, and a servo will rotate to a corresponding angle. Then, the servo resets and another angle can be           entered.
 - [math.py](math.py)
