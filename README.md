@@ -278,7 +278,7 @@ A picture of the wiring for the pi where most of the code was being developed an
 <img src="Media/jamboard2.png" width="300">
 <img src="Media/jamboard3.png" width="300">
 <img src="Media/shieldsMath.png" width="300">
-<img src="Media/sratchpaper1.jpg" width="300">
+<img src="Media/scratchpaper1.jpg" width="300">
 <img src="Media/scratchpaper2.jpg" width="300">
 <img src="Media/scratchpaper3.jpg" width="300">
 <img src="Media/scratchpaper4.jpg" width="300">
@@ -288,4 +288,4 @@ A picture of the wiring for the pi where most of the code was being developed an
 <img src="Media/desmos2.png" width="300">
 <img src="Media/desmos3.png" width="300">
 <img src="Media/desmosPoints.png" width="300">
-<img src="Media/desmosSliderspng" width="300">
+<img src="Media/desmosSliders.png" width="300">
