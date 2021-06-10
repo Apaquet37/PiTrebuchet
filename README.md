@@ -242,18 +242,32 @@ Currently, at the end of the school year, the code is almost finished, but not q
 Brief descriptions of important files:
 - [angleTest.py](angleTest.py)
     - This code allows a user to type in a number between -1 and 1, and a servo will rotate to a corresponding angle. Then, the servo resets and another angle can be           entered.
+    - <img src="Media/angleTest.png" width="300">
 - [math.py](math.py)
     - This code is full of all the math and physics work we have done for this project. It takes the mass of the projectile and the distance the user wants it to launch       to calculate the angle the release pin of the sling needs to be at. 
+    - <img src="Media/mathPic.png" width="300">
+    - <img src="Media/mathReplit.png" width="300">
 - [servoCode.py](servoCode.py)
     - This was a programming breakthrough with the servos where I figured out how to control them simply, but very effectively. The use of gpiozero in this code greatly       reduces the jitter in the servos and makes them rotate smoothly.
     - [An extremely helpful resource in coding the servos.](https://gpiozero.readthedocs.io/en/stable/api_output.html#servo)
+    - <img src="Media/servoCode.GIF" width="300">
+    - <img src="Media/servoError.png" width="300"> It's important to make sure the pigpio daemon is running.
 - [buttonTest.py](buttonTest.py)
     - This is still very preliminary code, but it was just working with getting the press of a button to make a servo move, combined with the input capabilities and           control of angleTest.
+    - <img src="Media/buttonTest.png" width="300">
 - [servo.py](servo.py) and [servoTest.py](servoTest.py)
     - Both of these files just play around with moving servos.
+    - <img src="Media/servo.GIF" width="300">
+    - <img src="Media/servoTest.GIF" width="300">
 - [Flask](Flask)
     - While not a ton was accomplished on the user interface, there was some progress.
     - With [app.py](app.py), a button appears that can be clicked to make both servos rotate once. This file still needs some logic work, because the servos rotate once       and then don’t move back, and the button can’t be used multiple times.
     - There is also some start on a form that would accept the values the user needs to input.
     - More extensive Flask work is done here, credit to Benji Paquette: (https://github.com/Bhenry4/PiTrebuchet)
+    - <img src="Media/flaskServoClick.GIF" width="300">
+    - <img src="Media/servoFlask.png" width="300">
+    - <img src="Media/servoFlaskButton.png" width="300">
+
+A picture of the wiring for the pi where most of the code was being developed and tested.
+<img src="Media/piWiring.JPG" width="300">
 
