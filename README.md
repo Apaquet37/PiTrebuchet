@@ -269,5 +269,6 @@ Brief descriptions of important files:
     - <img src="Media/servoFlaskButton.png" width="300">
 
 A picture of the wiring for the pi where most of the code was being developed and tested.
-<img src="Media/projectWiring.JPG" width="300">
+
+<img src="Media/projectWiring.JPG" width="500">
 
