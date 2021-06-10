@@ -225,3 +225,33 @@ The PiHolder presented a unique challenge because we planned on lasercutting the
 <img src="Media/ScrewConnection.png" width="300">
 <img src="Media/SheetMetalSketch.png" width="300">
 <img src="Media/SheetMetalTest.png" width="300">
+
+
+## Code
+The goals of our code at the start of this project:
+- A user puts the mass of a projectile and the desired distance they want their projectile to travel into a Flask user interface
+- From that data, as well as other data and mathematical equations, the pi determines at what angle the release pin of the sling should be at
+- Based on that angle generated (theta) a servo attached to the pin moves
+- From there, a launch button will appear on the user interface, and when the user presses “launch” a second servo starts the launch
+- Finally, the code would need processes at the end to reset the servos so they are ready for another launch
+
+Currently, at the end of the school year, the code is almost finished, but not quite done. All of the logic has been figured out, as well as the servo control, but everything hasn’t been put together and the Flask user interface is not up and running. In this repository there are multiple different programs and files that all do different things, but all the code is commented so it should be pretty easy to look through. 
+
+Brief descriptions of important files: (link on names)
+- [angleTest.py](angleTest.py)
+    - This code allows a user to type in a number between -1 and 1, and a servo will rotate to a corresponding angle. Then, the servo resets and another angle can be           entered.
+- [math.py](math.py)
+    - This code is full of all the math and physics work we have done for this project. It takes the mass of the projectile and the distance the user wants it to launch       to calculate the angle the release pin of the sling needs to be at. 
+- [servoCode.py](servoCode.py)
+    - This was a programming breakthrough with the servos where I figured out how to control them simply, but very effectively. The use of gpiozero in this code greatly       reduces the jitter in the servos and makes them rotate smoothly.
+    - [An extremely helpful resource in coding the servos.](https://gpiozero.readthedocs.io/en/stable/api_output.html#servo)
+- [buttonTest.py](buttonTest.py)
+    - This is still very preliminary code, but it was just working with getting the press of a button to make a servo move, combined with the input capabilities and           control of angleTest.
+- [servo.py](servo.py) and [servoTest.py](servoTest.py)
+    - Both of these files just play around with moving servos.
+- [Flask](Flask)
+    - While not a ton was accomplished on the user interface, there was some progress.
+    - With [app.py](app.py), a button appears that can be clicked to make both servos rotate once. This file still needs some logic work, because the servos rotate once       and then don’t move back, and the button can’t be used multiple times.
+    - There is also some start on a form that would accept the values the user needs to input.
+    - More extensive Flask work is done here, credit to Benji Paquette: (https://github.com/Bhenry4/PiTrebuchet)
+
