@@ -169,7 +169,14 @@ E: Another tip for Onshape organization is to create folders to organize your pa
 
 <img src="Media/FolderPhoto.png" width="600">
 
-Challenges we faced:
+E: **BIGGEST TIP!** After some trouble with drawings in Onshape (and some issues with scale of laser-cut pieces) Dr. Shields shared with me the CHS Drawing Template. It simplifies the process of creating a document in Onshape and ensures that your pieces won't be off by a factor of 10 (or more). I would highly recommend using this template. (Thank you Dr. Shields!!)
+
+<img src="Media/DrawingTemplate.png" width="300"> 
+
+**Challenges we faced:**
+- Hybrid-model engineering
+  - This model required purposeful communication and coordination 
+  - It proved challenging because only one of us was in the lab at a time
 - Using the sheet metal tool to simulate bent acrylic
   - Learning how to do that in Onshape
   - Getting help from Dr. Shields
@@ -177,12 +184,7 @@ Challenges we faced:
 - Using a heat gun to bend acrylic 
   - Abby's experience doing that for the first time
   - Using a wooden block as a mold
-- Designing an axle to stablize the arm
-  - **Design challenge:** we had to be able to put the arm onto the axle, but also make sure that once it was on it would not shift from side to side. 
-  - **Thought Process:** We only wanted rotational movement in one plane, but couldn't think how to effectively create walls on each side of the arm that would go on after the arm. We decided that the best plan would be to create a two-piece axle that would connect in the middle after the arm was already on. 
-  - **Two-piece design solution:** The product was a two-piece axle where each side connected to one of the triangular walls and had a cone shape on the other end (specially designed to limit support material - just for you Dr. Shields!). The plan was to slide the arm onto a little part that stuck out from one of the sides and then to attach the two parts with deeply countersunk screws. 
-  - **Revisions:** Creating a headless screw
-  - Friction reduction: sanding and dry lubrication with graphite 
+
 - Designing a mechanized moving pin
   - Finding a design
   - Replicating it in Onshape
@@ -198,39 +200,63 @@ Challenges we faced:
   - Adjustments to the new omega formula
 
 
-##### Design #####
+## Design ##
 
 There were a few distinct aspects of the design:
 1. PiHolder
 2. Custom Axle
 3. Arm
 4. Release Pin Mechanism 
+5. Counterweight
+6. Sling 
 
-** 1. PiHolder ** 
+**1. PiHolder** 
 
-The PiHolder presented a unique challenge because we planned on lasercutting the design first and then bending the acrylic afterwards. 
+The PiHolder presented a unique challenge because we planned on lasercutting the design first and then bending the acrylic afterwards. It is challenging to design something in 2D when it will end up being 3 dimensional. Onshape has a cool fearure called Sheet Metal that allows you to design in 3D and then "flatten" your design for cutting. Dr. Shields was super helpful with this-exploring this feature and then giving us a template that we used to create our PiHolder. To bend the acrylic precisely, Abby used a piece of wood with the proper width, and the piece turned out great! The blue lines (as seen in the image below) served as guidelines during this process.
 
-<img src="Media/ArmDesign.png" width="300">
-<img src="Media/AxleCAD.png" width="300">
-<img src="Media/FullAssembly.png" width="300">
-<img src="Media/PiHolderDesign.png" width="300">
-<img src="Media/RevolutionDiagram.png" width="300">
-<img src="Media/NamingMates.png" width="300">
-<img src="Media/Whiteboard1.jpg" width="300">
-<img src="Media/Protractor.jpg" width="300">
-<img src="Media/AngleMeasurements.JPG" width="300">
-
-<img src="Media/ArmRotation.png" width="300">
-<img src="Media/CustomBatteryHolder.png" width="300">
-<img src="Media/DrawingTemplate.png" width="300">
-<img src="Media/FullArmAssembly.png" width="300">
-<img src="Media/FullAxle.png" width="300">
-<img src="Media/FullTrebuchet.png" width="300">
-<img src="Media/PiHolderPart.png" width="300">
-<img src="Media/ScrewConnection.png" width="300">
 <img src="Media/SheetMetalSketch.png" width="300">
 <img src="Media/SheetMetalTest.png" width="300">
+<img src="Media/PiHolderPart.png" width="300">
+<img src="Media/PiHolderDesign.png" width="300">
 
+**2. Custom Axle**
+
+  - **Design challenge:** we had to be able to put the arm onto the axle, but also make sure that once it was on it would not shift from side to side. 
+  - **Thought Process:** We only wanted rotational movement in one plane, but couldn't think how to effectively create walls on each side of the arm that would go on after the arm. We decided that the best plan would be to create a two-piece axle that would connect in the middle after the arm was already on. 
+  - **Two-piece design solution:** The product was a two-piece axle where each side connected to one of the triangular walls and had a cone shape on the other end (specially designed to limit support material - just for you Dr. Shields!). The plan was to slide the arm onto a little part that stuck out from one of the sides and then to attach the two parts with a deeply countersunk screw. 
+  - **Revisions:** Once we saw the printed parts, we realized that countersunk screws would not be feasible. We decided instead to improvise and create a headless screw. (This proved an entertaining process.) As we were testing the arm on the axle, we realized that there was a significant amount of friction, which was less than ideal. To combat that challenge we sanded the wood to remove any splinters and used liquid graphite (a dry lubricant) on the axle to reduce friction between the axle and the arm. 
+
+<img src="Media/AxleCAD.png" width="300">
+<img src="Media/FullAxle.png" width="300">
+<img src="Media/ScrewConnection.png" width="300">
+<img src="Media/ArmRotation.png" width="300">
+
+**3. Arm**
+
+The arm, in and of itself, was not a complicated part. It is a piece of lasercut wood with a few holes and a rounded tip. 
+
+<img src="Media/ArmDesign.png" width="300">
+
+The challenge was found in the three key features related to it: the release pin mechanism (see below), the axle (see above), and the counterweight (see below as well). It took some testing to figure out an optimal location for the center of rotation of the arm in relation to its center of mass, but, after drilling a few holes in our test arm, we found a good spot. 
+
+<img src="Media/FullArmAssembly.png" width="300">
+
+**4. Release Pin Mechanism**
+
+The release pin mechanism was by far the most complicated build project. Our original inspiration was from Tom Stanton's release pin mechanism (see above in the planning section) (shoutout to Vann for the project idea!). However, his mechanism required a human and a screwdriver in order to be adjusted, and our goal was to automate the trebuchet as much as possible. As we were researching we came across a (relatively) simple system for moving a pin mechanically (see above in planning section). We replaced the fixed bar with a 3D printed pin, and powered the whole system with a servo. Once we got the system working I simply extended the end piece to create a "pin" that stuck out beyond the end of the arm. Integrating the build and code aspects proved challenging because there wasn't a particularly intuitive relationship between the servo angle (which went from -1 to 1 in the code) to the angle of the release pin (0 to 180 deg). This required some testing and calibration, but Abby did an excellent job making the code easy to test and easy to change. 
+
+**5. Counterweight**
+
+**6. Sling**
+
+**Misc. Build Parts**
+
+<img src="Media/CustomBatteryHolder.png" width="300">
+
+**Final CAD Assemblies!**
+
+<img src="Media/FullAssembly.png" width="300">
+<img src="Media/FullTrebuchet.png" width="300">
 
 ## Code
 The goals of our code at the start of this project:
@@ -292,3 +318,7 @@ A picture of the wiring for the pi where most of the code was being developed an
 <img src="Media/desmos3.png" width="300">
 <img src="Media/desmosSliders.png" width="300">
 <img src="Media/desmos2.png" width="300">
+<img src="Media/RevolutionDiagram.png" width="300">
+<img src="Media/Whiteboard1.jpg" width="300">
+<img src="Media/Protractor.jpg" width="300">
+<img src="Media/AngleMeasurements.JPG" width="300">
