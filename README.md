@@ -171,7 +171,7 @@ E: Another tip for Onshape organization is to create folders to organize your pa
 
 E: **BIGGEST TIP!** After some trouble with drawings in Onshape (and some issues with scale of laser-cut pieces) Dr. Shields shared with me the CHS Drawing Template. It simplifies the process of creating a document in Onshape and ensures that your pieces won't be off by a factor of 10 (or more). I would highly recommend using this template. (Thank you Dr. Shields!!)
 
-<img src="Media/DrawingTemplate.png" width="300"> 
+<img src="Media/DrawingTemplate.png" width="700"> 
 
 **Challenges we faced:**
 - Hybrid-model engineering
