@@ -1,5 +1,5 @@
 # Pi Trebuchet
-Elisabeth Scharf and Abigail Paquette - Engineering 4 Repo & Documentation
+Elisabeth Scharf and Abigail Paquette
 
 [Trello Board](https://trello.com/b/15McbNyB/engineering-4-project)
 
