@@ -345,7 +345,7 @@ A picture of the wiring for the pi where most of the code was being developed an
 
 **Angle Translation** 
 
-Part of the challenge of the release pin mechanism (see release pin mechanism in the design section), was to figure out the relationship between servo angle and release pin angle. We did this experimentally through some slightly jerryrigged experiments. (Also pictured below is the process we used to find the period of the trebuchet.)
+Part of the challenge of the release pin mechanism (see release pin mechanism in the design section), was to figure out the relationship between servo angle and release pin angle. We did this experimentally through some slightly jerryrigged experiments. (Also pictured below is the process we used to find the period of the trebuchet.) The desmos screenshots above show the points we plotted to find the relationship between the value we sent to the servo (between -1 and 1) and the angle that the release pin was at for each particular value. That equation turned out to be y = -112x + 99, where y is the pin angle and x is the servo value.
 
 <img src="Media/Protractor.jpg" width="500">
 <img src="Media/AngleMeasurements.JPG" width="500">
