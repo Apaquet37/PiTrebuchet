@@ -336,12 +336,12 @@ A picture of the wiring for the pi where most of the code was being developed an
 <img src="Media/scratchpaper4.jpg" width="500">
 <img src="Media/physics1.png" width="500">
 <img src="Media/physics2.png" width="500">
+<img src="Media/RevolutionDiagram.png" width="500">
 <img src="Media/desmosPoints.png" width="500">
 <img src="Media/desmos1.png" width="500">
 <img src="Media/desmos3.png" width="500">
 <img src="Media/desmosSliders.png" width="500">
 <img src="Media/desmos2.png" width="500">
-<img src="Media/RevolutionDiagram.png" width="500">
 
 **Angle Translation** 
 
