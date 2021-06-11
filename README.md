@@ -307,21 +307,21 @@ A picture of the wiring for the pi where most of the code was being developed an
 
 
 ## Math and Physics
-<img src="Media/jamboard2.png" width="300">
-<img src="Media/jamboard3.png" width="300">
-<img src="Media/shieldsMath.png" width="300">
-<img src="Media/scratchpaper1.jpg" width="300">
-<img src="Media/scratchpaper2.jpg" width="300">
-<img src="Media/scratchpaper3.jpg" width="300">
-<img src="Media/scratchpaper4.jpg" width="300">
-<img src="Media/physics1.png" width="300">
-<img src="Media/physics2.png" width="300">
-<img src="Media/desmosPoints.png" width="300">
-<img src="Media/desmos1.png" width="300">
-<img src="Media/desmos3.png" width="300">
-<img src="Media/desmosSliders.png" width="300">
-<img src="Media/desmos2.png" width="300">
-<img src="Media/RevolutionDiagram.png" width="300">
-<img src="Media/Whiteboard1.jpg" width="300">
-<img src="Media/Protractor.jpg" width="300">
-<img src="Media/AngleMeasurements.JPG" width="300">
+<img src="Media/jamboard2.png" width="600">
+<img src="Media/jamboard3.png" width="600">
+<img src="Media/shieldsMath.png" width="600">
+<img src="Media/scratchpaper1.jpg" width="600">
+<img src="Media/scratchpaper2.jpg" width="500">
+<img src="Media/scratchpaper3.jpg" width="500">
+<img src="Media/scratchpaper4.jpg" width="500">
+<img src="Media/physics1.png" width="500">
+<img src="Media/physics2.png" width="500">
+<img src="Media/desmosPoints.png" width="500">
+<img src="Media/desmos1.png" width="500">
+<img src="Media/desmos3.png" width="500">
+<img src="Media/desmosSliders.png" width="500">
+<img src="Media/desmos2.png" width="500">
+<img src="Media/RevolutionDiagram.png" width="500">
+<img src="Media/Whiteboard1.jpg" width="500">
+<img src="Media/Protractor.jpg" width="500">
+<img src="Media/AngleMeasurements.JPG" width="500">
