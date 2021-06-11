@@ -247,6 +247,8 @@ The release pin mechanism was by far the most complicated build project. Our ori
 
 **5. Counterweight**
 
+We decided to add a hinge for the counterweights, It serves a double purpose, first it is propp
+
 **6. Sling**
 
 **Misc. Build Parts**
