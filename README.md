@@ -239,11 +239,12 @@ The arm, in and of itself, was not a complicated part. It is a piece of lasercut
 
 The challenge was found in the three key features related to it: the release pin mechanism (see below), the axle (see above), and the counterweight (see below as well). It took some testing to figure out an optimal location for the center of rotation of the arm in relation to its center of mass, but, after drilling a few holes in our test arm, we found a good spot. 
 
-<img src="Media/FullArmAssembly.png" width="300">
 
 **4. Release Pin Mechanism**
 
 The release pin mechanism was by far the most complicated build project. Our original inspiration was from Tom Stanton's release pin mechanism (see above in the planning section) (shoutout to Vann for the project idea!). However, his mechanism required a human and a screwdriver in order to be adjusted, and our goal was to automate the trebuchet as much as possible. As we were researching we came across a (relatively) simple system for moving a pin mechanically (see above in planning section). We replaced the fixed bar with a 3D printed pin, and powered the whole system with a servo. Once we got the system working I simply extended the end piece to create a "pin" that stuck out beyond the end of the arm. Integrating the build and code aspects proved challenging because there wasn't a particularly intuitive relationship between the servo angle (which went from -1 to 1 in the code) to the angle of the release pin (0 to 180 deg). This required some testing and calibration, but Abby did an excellent job making the code easy to test and easy to change. 
+
+<img src="Media/FullArmAssembly.png" width="600">
 
 **5. Counterweight**
 
