@@ -277,7 +277,7 @@ The goals of our code at the start of this project:
 - Based on that angle generated (theta) a servo attached to the pin moves
 - From there, a launch button will appear on the user interface, and when the user presses “launch” a second servo starts the launch
 - Finally, the code would need processes at the end to reset the servos so they are ready for another launch
-- <img src="Media/jamboard1.png" width="400">
+- <img src="Media/jamboard1.png" width="700">
 
 Currently, at the end of the school year, the code is almost finished, but not quite done. All of the logic has been figured out, as well as the servo control, but everything hasn’t been put together and the Flask user interface is not up and running. In this repository there are multiple different programs and files that all do different things, but all the code is commented so it should be pretty easy to look through. 
 
