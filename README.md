@@ -248,9 +248,11 @@ The release pin mechanism was by far the most complicated build project. Our ori
 
 **5. Counterweight**
 
-We decided to add a hinge for the counterweights, It serves a double purpose, first it is propp
+We decided to add a hinge for the counterweight. Our original intent with it was to jerk the arm when it fell to cut short the pendulum-like motion of the arm and therefore reduce the amount of our total energy budget that was used on the arm (rather than the sling/projectile system). The added benefit was that the hinge props the counterweights up in the initial position, giving us a slightly greater delta h and therefore a slightly larger "energy budget" to work with. The counterweights themselves are galvanized steel washers-nice and dense an heavy, and easy to attach.
 
 **6. Sling**
+
+The sling proved more challenging than we had anticipated. Following the example of Tom Stanton's release mechanism, (see above in planning section) we had a hole on the arm with a permanently attached string. That piece of string tied to the sling and then the string on the other side of the sling had a loop in order to hook onto the release pin. We experimented with half a plastic Easter egg first (sometimes you have to prototype with whatever you've got!). We later decided that it wasn't the best option and decided that it was important for the sling to be able to open up during the launch process in order to properly release the projectile. 
 
 **Misc. Build Parts**
 
@@ -307,8 +309,19 @@ A picture of the wiring for the pi where most of the code was being developed an
 
 
 ## Math and Physics
+
+**Introduction:** This project was heavy on the math and physics, and we spent a good portion of our time in office hours with the physics teacher, Mr. Manning, (huge shoutout and thank you to Mr. Manning for all of his help!!) talking through the project. This was an excellent opportunity to apply what we had learned in multiple classes to one project and to make connections between what we were learning on paper and a physical project. Cross-disciplinary projects are an incredible way to learn and to enforce what you are learning. 
+
+**The Process:** We knew that we would have some constant values and some user-input variables and that we would need to use all of that information to find the one important piece of information: theta. When thinking about this process, kinematics jumped to the forefront as a logical way to approach this problem. After many charts and some puzzling, (see photo below) we figured out an idea of how we could potentially find theta. (This later proved to be a bit more complicated that we had originally thought, as we got caught in the cycle of needing theta to find the variable that would help us find theta... but in the end we figured it out.) 
+
+<img src="Media/Whiteboard1.jpg" width="500">
+
+**Backtracking to step 1:** However, before we did kinematics, the big important piece of information we needed was the launch velocity of the projectile. This, of course, was dependent on a variety of things, but it was the key that we needed to plug into the kinematics charts to find theta. In order to find the final velocity of the projectile we used energy, starting with the initial potential energy of the counterweights as they were suspended in the air and then breaking the rest down into components (see photos below). We used the analogy of a budget (as I'm sure you have seen in the past few sections). Due to the law of conservation of energy in a system, we knew that all the energy (potential and kinetic) that was used during the launch process had to be equal to the initial potential energy of the counterweight prior to launch. Therefore, our "budget" was limited to that amount. The two ways we could maximize the final velocity of the projectile were to increase our overall budget (which we did with increased counterweight weight and increased delta height) or to limit the amount of energy used by the other components in the system (i.e. the kinetic energy of the arm or the counterweight).
+
 <img src="Media/jamboard2.png" width="600">
 <img src="Media/jamboard3.png" width="600">
+
+
 <img src="Media/shieldsMath.png" width="600">
 <img src="Media/scratchpaper1.jpg" width="600">
 <img src="Media/scratchpaper2.jpg" width="500">
@@ -322,6 +335,9 @@ A picture of the wiring for the pi where most of the code was being developed an
 <img src="Media/desmosSliders.png" width="500">
 <img src="Media/desmos2.png" width="500">
 <img src="Media/RevolutionDiagram.png" width="500">
-<img src="Media/Whiteboard1.jpg" width="500">
+
+**Angle Translation** 
+
+Part of the challenge of the release pin mechanism (see release pin mechanism in the design section), was to figure out the relationship between servo angle and release pin angle. We did this experimentally through some slightly jerryrigged experiments. (Also pictured below is the process we used to find the period of the trebuchet.)
 <img src="Media/Protractor.jpg" width="500">
 <img src="Media/AngleMeasurements.JPG" width="500">
